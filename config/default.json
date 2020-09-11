@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://jack:jack@cluster0.lt4vk.mongodb.net/api-express-react-db?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
